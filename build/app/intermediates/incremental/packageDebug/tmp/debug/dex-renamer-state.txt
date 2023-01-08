@@ -1,0 +1,4 @@
+#Sun Jan 08 16:48:20 TRT 2023
+base.0=/Users/ozturkomerfaruk/StudioProjects/flutter_onboarding/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
